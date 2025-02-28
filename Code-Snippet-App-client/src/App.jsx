@@ -5,7 +5,7 @@ import CodeBlock from "./components/CodeBlock";
 import AddCodeForm from "./components/AddCodeForm";
 import Spinner from "./components/Spinner";
 
-const API_URL = "https://mern-code-snippet-app.vercel.app/api/snippets";
+const API_URL = "https://mern-code-snippet-backend.vercel.app/api/snippets";
 
 function App() {
   const [codeSnippets, setCodeSnippets] = useState([]);
