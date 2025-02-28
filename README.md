@@ -17,7 +17,7 @@ A simple web application to save, edit, delete, and search code snippets using t
 
 - # MERN Code Snippet App
 
-![Preview](./Code-Snippet-App//src//assets//codeSnippet.png)
+![Preview](./Code-Snippet-App-client//src//assets//codeSnippet.png)
 
 A simple web application to save, edit, delete, and search code snippets using the MERN stack.
 
