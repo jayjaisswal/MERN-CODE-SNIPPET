@@ -66,7 +66,7 @@ A simple web application to save, edit, delete, and search code snippets using t
 
 ## Live Demo
 
-[Click here to view the app](https://mern-code-snippet-app-client-qlw5dheju-jayjaisswals-projects.vercel.app/)
+[Click here to view the app](https://mern-code-snippet-client-side.vercel.app/)
 
 
 # MERN-CODE-SNIPPET
